@@ -3,4 +3,6 @@ Hey we need to add this
 some text
 this
 
+new change
+
 this is friend's branch
